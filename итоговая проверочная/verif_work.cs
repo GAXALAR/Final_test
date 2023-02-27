@@ -13,3 +13,6 @@ void ArrayRes ( string [] textAsArray )
         }
     }
 }
+
+Console.WriteLine ("Слова/значения не больше 3-х символов: ");
+ArrayRes(textAsArray);
